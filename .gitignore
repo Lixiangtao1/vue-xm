@@ -1,0 +1,10 @@
+# 忽略文件
+
+
+node_modules
+.idea  
+# webstorm中自动生成的配置文件,以及一些编辑器默认设置
+.vscode
+
+.git
+# 只要git init 必然多这个文件夹 存放的是一些版本
